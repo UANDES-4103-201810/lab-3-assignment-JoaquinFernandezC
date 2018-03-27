@@ -1,3 +1,6 @@
 # lab-3-assignment-JoaquinFernandezC
 
-Joaquin Fernandez and Gustavo Vicuña
+Members:
+
+Joaquin Fernandez
+Gustavo Vicuña
